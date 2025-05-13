@@ -1,0 +1,27 @@
+/* CSS file for the web application */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    background-image: url();
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin: 20px auto;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
